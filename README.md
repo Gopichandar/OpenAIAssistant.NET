@@ -1,1 +1,1 @@
-# OpenAIAssistant.NET
+# OpenAIAssistantDotNet
